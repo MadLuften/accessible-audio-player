@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal">
+
+
+    <Button
+        android:id="@+id/volume_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/volUp"
+        android:background="@android:color/black"
+        android:textColor="#ffe500"/>
+
+    <Button
+        android:id="@+id/volume_down"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/volDown"
+        android:background="@android:color/black"
+        android:textColor="#ffe500"/>
+
+    <Button
+        android:id="@+id/scroll_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/scrollUp"
+        android:background="@android:color/black"
+        android:textColor="#ffe500"/>
+
+    <Button
+        android:id="@+id/scroll_down"
+        android:layout_width="102dp"
+        android:layout_height="wrap_content"
+        android:text="@string/scrollDown"
+        android:background="@android:color/black"
+        android:textColor="#ffe500"/>
+</LinearLayout>

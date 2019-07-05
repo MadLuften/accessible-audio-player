@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">AccessibleAudioPlayer</string>
+    <string name="viewAll">View All</string>
+    <string name="playlists">PLAYLISTS</string>
+    <string name="options">OPTIONS</string>
+    <string name="playPause">PLAY/PAUSE</string>
+    <string name="open">OPEN</string>
+    <string name="stop">STOP</string>
+    <string name="restart">RESTART</string>
+    <string name="home">HOME</string>
+    <string name="colourSettings">COLOUR</string>
+    <string name="brightnessSettings">BRIGHTNESS</string>
+    <string name="zoomSettings">FONT-SIZE</string>
+    <string name="addPlaylist">ADD PLAYLIST</string>
+    <string name="addToPlaylist">ADD TO PLAYLIST</string>
+    <string name="details">DETAILS</string>
+    <string name="back">BACK</string>
+    <string name="enterPlaylistName">ENTER NAME</string>
+    <string name="accept">ACCEPT</string>
+    <string name="volUp">VOL\nUP</string>
+    <string name="volDown">VOL\nDN</string>
+    <string name="scrollUp">SCROLL\nUP</string>
+    <string name="scrollDown">SCROLL\nDN</string>
+    <string name="save">SAVE</string>
+    <string name="prototype">*prototype*</string>
+    <string name="progressScrub">Use this to change the progress of the song or book</string>
+    <string name="goBack">GO BACK</string>
+    <string name="goBackText">This page is under development and unavailable during this prototype.</string>
+</resources>

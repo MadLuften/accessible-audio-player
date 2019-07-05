@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1063629408254",
+    "firebase_url": "https://accessibleaudioplayer.firebaseio.com",
+    "project_id": "accessibleaudioplayer",
+    "storage_bucket": "accessibleaudioplayer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063629408254:android:644d7bd7d027c6be",
+        "android_client_info": {
+          "package_name": "com.example.craigandroid.accessibleaudioplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063629408254-h7160p8lhgu6vul1fg1se40ccrk710pm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.craigandroid.accessibleaudioplayer",
+            "certificate_hash": "11e44377287c7ea54f685791dee76ed88d323936"
+          }
+        },
+        {
+          "client_id": "1063629408254-v80kiclodpke7dqt71tmm9nhd7dfb819.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO7hLPCBxnEPWzB0oPgK-35TsvqEUAmVo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063629408254-v80kiclodpke7dqt71tmm9nhd7dfb819.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

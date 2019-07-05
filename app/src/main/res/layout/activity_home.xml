@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey"
+    tools:context=".HomeActivity">
+
+    <Button
+        android:id="@+id/button_0"
+        android:layout_width="340dp"
+        android:layout_height="84dp"
+        android:layout_marginTop="48dp"
+        android:background="@color/black"
+        android:contentDescription="@string/viewAll"
+        android:text="@string/viewAll"
+        android:textColor="@color/yellow"
+        android:textSize="50sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button_1"
+        android:layout_width="340dp"
+        android:layout_height="84dp"
+        android:layout_marginTop="80dp"
+        android:background="@color/black"
+        android:contentDescription="@string/playlists"
+        android:text="@string/playlists"
+        android:textColor="@color/yellow"
+        android:textSize="50sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_0" />
+
+    <Button
+        android:id="@+id/button_2"
+        android:layout_width="340dp"
+        android:layout_height="84dp"
+        android:layout_marginTop="80dp"
+        android:background="@color/black"
+        android:contentDescription="@string/options"
+        android:text="@string/options"
+        android:textColor="@color/yellow"
+        android:textSize="50sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button_1" />
+
+</android.support.constraint.ConstraintLayout>
